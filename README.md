@@ -1,4 +1,4 @@
-# 90% Cleaner React w/ Hooks
+# 91% Cleaner React w/ Hooks
 
 By [Ryan Florence](https://twitter.com/ryanflorence) at React Conf 2018.
 
